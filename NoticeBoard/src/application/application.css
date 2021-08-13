@@ -1,0 +1,12 @@
+#mainPane {
+	-fx-background-color: rgba(255, 255, 0, 0.5);
+}
+#mainPane {
+	-fx-background-image: url(/resources/apple.png);
+}
+
+#mainPane {
+	-fx-background-image: url(/resources/maxresdefault.jpg);
+	-fx-background-size: cover;
+	-fx-background-position: center center;
+}
